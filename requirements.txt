@@ -1,5 +1,5 @@
 mozinfo >= 1.0.0
-packaging == 21.3.0
+packaging == 23.1
 progressbar2 >= 3.34.3
 redo == 2.0.4
 requests >= 2.21.0, <3.0.0
